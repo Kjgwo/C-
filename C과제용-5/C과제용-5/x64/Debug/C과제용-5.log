@@ -1,9 +1,0 @@
-﻿  Source.cpp
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(33,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(39,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(57,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(85,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(85,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(85,10): message : the missing variadic argument 2 is required by format string '%c'
-C:\Users\201710911\source\repos\C과제용-5\C과제용-5\Source.cpp(85,10): message : this argument is used as a buffer size
-  C과제용-5.vcxproj -> C:\Users\201710911\source\repos\C과제용-5\x64\Debug\C과제용-5.exe
